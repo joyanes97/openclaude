@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.22.0](https://github.com/Gitlawb/openclaude/compare/v0.21.0...v0.22.0) (2026-07-01)
+
+
+### Features
+
+* **report:** render task reports as markdown ([#1826](https://github.com/Gitlawb/openclaude/issues/1826)) ([8182a46](https://github.com/Gitlawb/openclaude/commit/8182a46441793a33aebb5837bd759e9dc0a38eff))
+* **resume:** group branched sessions in picker ([#1824](https://github.com/Gitlawb/openclaude/issues/1824)) ([166d0ce](https://github.com/Gitlawb/openclaude/commit/166d0ce7843f33d355caddf9c49473d9d1133446))
+
+
+### Bug Fixes
+
+* **openai-shim:** recover stalled provider streams ([#1817](https://github.com/Gitlawb/openclaude/issues/1817)) ([67227cf](https://github.com/Gitlawb/openclaude/commit/67227cf7723beb53f09e38dece2e4ba09a1f8f10))
+* **openai-shim:** wire stream controller abort ([#1828](https://github.com/Gitlawb/openclaude/issues/1828)) ([bb61d84](https://github.com/Gitlawb/openclaude/commit/bb61d8430bd14f75e7054f2099c2c1eb71c221d5))
+
 ## [0.21.0](https://github.com/Gitlawb/openclaude/compare/v0.20.1...v0.21.0) (2026-06-30)
 
 
